@@ -2,14 +2,6 @@
 
 A machine learning model that predicts coverage barriers for newly approved drugs based on regulatory, clinical, and economic characteristics.
 
-## 🎯 Project Purpose
-
-This project demonstrates skills relevant to life sciences market access consulting by:
-- Collecting and integrating multiple government data sources (FDA, CMS, Medicaid)
-- Engineering features that capture payer decision-making factors
-- Building predictive models for coverage outcomes
-- Creating interactive visualizations for stakeholder communication
-
 ## 📊 Data Sources
 
 | Source | Description | Access |
@@ -149,18 +141,6 @@ streamlit run src/visualization/dashboard.py
 3. **ICER integration**: Scrape and incorporate value assessments
 4. **Time-to-coverage prediction**: Regression model for coverage timeline
 5. **Geographic analysis**: Predict LCD variations by MAC region
-
-## 📝 Portfolio Presentation Tips
-
-When discussing this project:
-
-1. **Lead with the business problem**: "I built a model to predict drug coverage timelines—the exact question pharma companies ask consultants."
-
-2. **Show domain knowledge**: Discuss which features matter most and why (e.g., "Orphan drugs face fewer access barriers because payers have limited alternatives").
-
-3. **Acknowledge limitations**: "Public data can't capture rebates or contract negotiations, which significantly affect real-world access."
-
-4. **Suggest extensions**: "With access to proprietary data, this model could incorporate payer-specific policies and real-time formulary changes."
 
 ## 📄 License
 
