@@ -1,0 +1,41 @@
+{
+  "processed_at": "2026-01-08T16:10:25.725989",
+  "total_records": 460,
+  "columns": [
+    "application_number",
+    "sponsor_name",
+    "brand_name",
+    "generic_name",
+    "submission_type",
+    "submission_number",
+    "submission_status",
+    "submission_status_date",
+    "review_priority",
+    "submission_class_code_description",
+    "application_type",
+    "generic_name_clean",
+    "brand_name_clean",
+    "is_orphan",
+    "has_ncd",
+    "ncd_category",
+    "nadac_per_unit",
+    "is_brand",
+    "has_nadac_price",
+    "launch_price",
+    "is_priority_review",
+    "is_standard_review",
+    "is_nda",
+    "is_bla",
+    "is_anda",
+    "is_new_molecular_entity",
+    "is_new_indication",
+    "approval_year",
+    "approval_month",
+    "approval_quarter"
+  ],
+  "feature_counts": {
+    "is_orphan": 0,
+    "is_priority_review": 28,
+    "has_nadac_price": 2
+  }
+}

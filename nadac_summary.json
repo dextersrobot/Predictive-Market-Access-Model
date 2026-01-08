@@ -1,0 +1,15 @@
+{
+  "total_records": 0,
+  "unique_ndcs": 0,
+  "date_range": {
+    "min": null,
+    "max": null
+  },
+  "price_stats": {
+    "mean": null,
+    "median": null,
+    "max": null
+  },
+  "classifications": {},
+  "collected_at": "2026-01-08T21:46:58.468236"
+}

@@ -1,0 +1,25 @@
+{
+  "collection_started": "2026-01-08T21:46:52.802426",
+  "quick_mode": true,
+  "sources": {
+    "fda_approvals": {
+      "status": "success",
+      "records": 0,
+      "date_range": "2020-2024"
+    },
+    "cms_coverage": {
+      "status": "error",
+      "error": "400 Client Error: Bad Request for url: https://api.coverage.cms.gov/v1/ncd?limit=100&offset=0"
+    },
+    "orphan_drugs": {
+      "status": "template_created",
+      "note": "Manual download required from FDA website"
+    },
+    "nadac_pricing": {
+      "status": "success",
+      "records": 0,
+      "days": 30
+    }
+  },
+  "collection_completed": "2026-01-08T21:46:58.468849"
+}

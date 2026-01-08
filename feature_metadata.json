@@ -1,0 +1,30 @@
+{
+  "engineered_at": "2026-01-08T16:10:53.788942",
+  "total_records": 460,
+  "total_features": 18,
+  "feature_columns": [
+    "is_priority_review",
+    "is_orphan",
+    "is_new_molecular_entity",
+    "likely_accelerated",
+    "regulatory_advantage_score",
+    "therapeutic_area_encoded",
+    "is_high_value_area",
+    "is_complex_dosage",
+    "is_oral_simple",
+    "is_biologic",
+    "log_launch_price",
+    "price_tier",
+    "market_size_proxy",
+    "years_since_2010",
+    "month_sin",
+    "month_cos",
+    "is_q4_approval",
+    "is_election_year"
+  ],
+  "target_column": "target_high_barrier",
+  "target_distribution": {
+    "0": 453,
+    "1": 7
+  }
+}
